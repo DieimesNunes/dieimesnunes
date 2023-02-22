@@ -11,6 +11,14 @@
 
 ![Snake animation](https://github.com/DieimesNunes/dieimesnunes/blob/output/github-contribution-grid-snake.svg)
 
+ ##
+ 
+<div align="center">
+  <a href="https://instagram.com/dieimes.nunes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:dieimes.nunes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dieimes-nunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
