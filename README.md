@@ -61,4 +61,4 @@ This profile contains academic projects, teaching resources, software experiment
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dieimes_Nunes-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dieimes-nunes)
-[![Email](https://img.shields.io/badge/Email-dieimes.nunes%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:dieimes.nunes@gmail.com)
+
